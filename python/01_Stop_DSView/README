@@ -1,0 +1,6 @@
+
+python脚本:
+1. 捕获MCU Flash Tool 弹窗提醒  --> 诊断工具 刷写成功
+2. 获取dsview 窗口
+3. 点击dsview 停止 / 输入快捷键停止
+4. 调用截图保存当前windows
